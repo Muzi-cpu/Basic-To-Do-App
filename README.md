@@ -1,4 +1,4 @@
-# https://muzi-cpu.github.io/Basic To-Do App/ 🌐
+# https://muzi-cpu.github.io/Basic-To-Do-App/ 🌐
 
 # Basic To-Do App ✅
 
